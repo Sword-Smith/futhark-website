@@ -5,7 +5,7 @@ description: An explanation of the higher-order parallel programming model used 
 ---
 
 Whenever I explain parallel functional programming, whether to
-students or the barista at a coffee shop, one thing I must content
+students or the barista at a coffee shop, one thing I must contend
 with is people's prior experience with parallel programming.  Quite
 often, these experiences are with low-level multi-threaded
 programming, fraught with race conditions and other hazards.  Their
@@ -18,7 +18,7 @@ single processor, after all.
 
 But still, such preconceptions present a barrier when I have to
 explain the kind of parallel programming we support in a language such
-as Futhark.  My strategy has become to point at `NumPy
+as Futhark.  My strategy has become to point to `NumPy
 <https://numpy.org/>`_, the Python array library, as an example of a
 widely used parallel programming model; one that has shown that
 high-level parallel programming can be just as accessible as
